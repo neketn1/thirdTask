@@ -1,1 +1,0 @@
-/home/suzen # ls -a
